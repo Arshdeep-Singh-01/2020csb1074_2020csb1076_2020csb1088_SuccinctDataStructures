@@ -1,4 +1,5 @@
 # **CS201 Project: SuccinctDataStructures** 
+<img src="https://img.shields.io/badge/Language-C-yellow">
 
 # Group members :
   1. Arshdeep Singh - 2020csb1074<br />
@@ -20,6 +21,8 @@
         <img src="./tree_example.png" />
       </p>
       
+      <details><summary>Click to expand</summary>
+  
       Enter data of node : ***1*** <br />
       Enter number of childrens : ***3***
       
